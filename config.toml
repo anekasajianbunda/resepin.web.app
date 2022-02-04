@@ -11,8 +11,8 @@ theme = "big"
   post = ":slug"
 
 [params]
-  description = "The place for over 10,000 popular recipes for your complete cooking guide"
-  topdescription = "The place for over 10,000 popular recipes for your complete cooking guide"
+  description = "Koleksi resep masakan lezat populer untuk panduan memasak sehari-hari"
+  topdescription = "Koleksi resep masakan lezat populer untuk panduan memasak sehari-hari"
   toptitle = "Resepin"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
